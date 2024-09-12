@@ -1,0 +1,20 @@
+source: Source
+destination: HTML
+
+site:
+ title: Endless Battle
+ description: A 3D offline shooting game.
+ base_url: https://harrymkt.github.io/endless-battle
+ sitemap: sitemap.xml
+pages:
+ default:
+  permalink: /{{parent}}/{{name}}
+
+posts:
+ title: Blog
+ description: Blog
+ dir: blog
+ default:
+  permalink: /{{parent}}/{{name}}
+  data:
+   author: Harry Min Khant
