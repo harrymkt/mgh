@@ -12,7 +12,7 @@ var copyrightText = document.createTextNode("Copyright \u00A9 2024–" + new Dat
 
 // Create an anchor element
 var anchorElement = document.createElement("a");
-anchorElement.href = "/";
+anchorElement.href = "https://harrymkt.github.io";
 anchorElement.textContent = "Harry Min Khant.";
 
 // Append the copyright text and anchor element to the paragraph

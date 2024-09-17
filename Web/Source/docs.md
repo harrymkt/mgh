@@ -6,7 +6,7 @@ permalink: /docs
 # {{page.title}}
 Endless Battle is a game designed for visually impaired gamers.
 
-To contribute, either translation or site and/or documentation improvements, visit [this repository](https://github.com/harrymkt/endless-battle).
+To contribute, site and/or documentation improvements, visit [this repository](https://github.com/harrymkt/endless-battle).
 
 ## Shortcuts
 * Q : Turns left 45 degrees.
