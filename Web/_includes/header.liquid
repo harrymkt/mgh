@@ -6,7 +6,10 @@
 <meta name="keywords" content="harry, min, khant, blind, social, visually impaired, computer, pc, mobile, android">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="/scripts/functions.js"></script>
-<script src="{{site.base_url}}/scripts/footer.js"></script>
+{%capture basepath -%}
+{%if site.base_url!="/"%}/endless-battle{%else%}{{site.base_url}}{%endif%}
+{%-endcapture-%}
+<script src="{{basepath}}/scripts/footer.js"></script>
 {% if page.published_date%}
 <title>{{ page.title }} - {{ collections.posts.title }} - {{ site.title }}</title>
 {% else %}
