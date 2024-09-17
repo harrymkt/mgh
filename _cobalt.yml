@@ -4,6 +4,8 @@ destination: HTML
 site:
  title: Endless Battle
  description: An offline 3D shooting game.
+ # Uncomment below line if you want to test, and make sure to recomment before push.
+ # base_url: /
  base_url: https://harrymkt.github.io/endless-battle
  sitemap: sitemap.xml
 pages:
