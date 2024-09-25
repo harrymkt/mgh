@@ -1,0 +1,11 @@
+{%- extends "base.html" -%}
+{%-block title-%}
+{{section.title}}{%if paginator.current_index>1%} (page {{paginator.current_index}}){%endif%} - {{super()}}
+{%-endblock title-%}
+{%- block content -%}
+{{section.content | safe}}
+{%- for post in paginator.pages %}
+{{postmc::post_preview(post=post, tr=tr)}}
+{%- endfor -%}
+{% include "pagination.html" -%}
+{%- endblock content -%}

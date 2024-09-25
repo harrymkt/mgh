@@ -1,0 +1,25 @@
+{%-extends "base.html"-%}
+{%-block title-%}
+{%-if not section-%}{%-set section=get_section(path="docs/_index.md", lang=lang)-%}{%-endif-%}
+{{section.title}} - {{super()}}
+{%-endblock title-%}
+{%-block nav-%}
+{{super()}}
+{%-if not section-%}{%-set section=get_section(path="docs/_index.md", lang=lang)-%}{%-endif-%}
+<nav roll="navigation" aria-label="Documentation">
+<h1>{{section.title}}</h1>
+<ul style="list-style-type:none;">
+{%-for doc in section.pages%}
+<li><a {%if current_path==doc.path%}aria-current="page"{%endif%}href="{{doc.permalink | safe}}">{{doc.title}}</a></li>
+{%-endfor%}
+</ul>
+{%-for ss in section.subsections%}
+<h2>{{ss.title}}</h2>
+<ul style="list-style-type:none;">
+{%-for doc in ss.pages%}
+<li><a {%if current_path==doc.path%}aria-current="page"{%endif%}href="{{doc.permalink | safe}}">{{doc.title}}</a></li>
+{%-endfor%}
+</ul>
+{%-endfor%}
+</nav>
+{%-endblock nav-%}

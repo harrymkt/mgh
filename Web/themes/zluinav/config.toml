@@ -1,0 +1,23 @@
+output_dir="HTML"
+title="UI Navigation"
+# Uncomment below line if you want to use as test purpose, and make sure to recomment after testing and back to your base url.
+#base_url="/"
+base_url="https://harrymkt.github.io/zluinav"
+author="Harry Min Khant"
+feed_filenames = ["rss.xml"]
+compile_sass = false
+build_search_index = false
+default_language="en"
+[languages.my]
+# Burmese
+title="UI လမ်းညွှန်"
+[slugify]
+paths = "on"
+taxonomies = "off"
+anchors = "off"
+[extra]
+tr_path="langs"
+nav=[
+{name="Home", url="/.l./", key="H", id="nav1"},
+{name="Blog", url="/.l./blog/", title="Read the latest news", id="nav2"}
+]
