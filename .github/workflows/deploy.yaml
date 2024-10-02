@@ -2,10 +2,10 @@ name: Deploy Website
 
 on:
   push:
-    paths: ["Web/**", "config.toml"]
+    paths: ["content/**", "static/**", "langs/**", "templates/**", "config.toml"]
     branches: [main]
   pull_request:
-    paths: ["Web/**", "config.toml"]
+    paths: ["content/**", "static/**", "langs/**", "templates/**", "config.toml"]
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,10 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
 
       - name: Download and install
         run: |

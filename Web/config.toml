@@ -9,19 +9,15 @@ feed_filenames = ["rss.xml"]
 compile_sass = false
 build_search_index = false
 default_language="en"
-[languages.my]
-# Burmese
-title="Endless Battle"
 [slugify]
 paths = "on"
 taxonomies = "off"
 anchors = "off"
 [extra]
-tr_path="langs"
 nav=[
-{name="Home", url="/.l./", id="nav1"},
-{name="Documentation", url="/.l./docs/", id="nav2"},
-{name="Contributing", url="/.l./contribute/", id="nav3"},
-{name="Contributors and credits", url="/.l./contributors/", id="nav4"},
-{name="To Do List", url="/.l./to-do-list/", id="nav5"}
+{name="Home", url="/.l./"},
+{name="Documentation", url="/.l./docs/"},
+{name="Contributing", url="/.l./contribute/"},
+{name="Contributors and credits", url="/.l./contributors/"},
+{name="To Do List", url="/.l./to-do-list/"}
 ]
