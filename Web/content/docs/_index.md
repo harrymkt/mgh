@@ -3,6 +3,7 @@ title="Documentation"
 template="doc.html"
 page_template="docpage.html"
 +++
+
 # Documentation
 Endless Battle is a game designed for visually impaired gamers.
 
