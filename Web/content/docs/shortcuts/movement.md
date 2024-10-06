@@ -1,8 +1,10 @@
 +++
 title="Movement and Directionarl Shortcuts"
 +++
-* Q : Turns left 45 degrees.
-* E : Turns right 45 degrees.
-* F : Checks direction.
-* Spacebar : Jumps.
-* Arrow keys : Moves around the map.
+Description | Shortcut for PC | Shortcut for Android
+---|---|---
+Turn left 45 degrees | Q
+Turn right 45 degrees | E
+Check direction | F
+Jump | Spacebar
+Move around the map | Arrow keys

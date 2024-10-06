@@ -1,7 +1,7 @@
 +++
 title="Home"
 +++
-# Welcome
+# $title$
 Welcome to Endless Battle, an offline 3D shooting game for visually impaired!
 This game will provide you with endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!
 

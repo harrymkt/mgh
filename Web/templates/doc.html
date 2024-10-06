@@ -18,7 +18,7 @@
 {%-set ss=get_section(path=subsect)-%}
 {%-if ss-%}
 <h3>{{ss.title}}</h3>
-{%-if ss.content-%}{{ss.content | safe}}{%-endif-%}
+{%-if ss.content-%}{{content::process(page=ss)}}{%-endif-%}
 <ul style="list-style-type:none;">
 {%-for doc in ss.pages%}
 <li><a {%if current_path==doc.path%}aria-current="page"{%endif%}href="{{doc.permalink | safe}}">{{doc.title}}</a></li>
@@ -30,5 +30,5 @@
 </nav>
 {%-endblock nav-%}
 {%-block content-%}
-{{section.content | safe}}
+{{content::process(page=section)}}
 {%-endblock content-%}

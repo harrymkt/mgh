@@ -1,1 +1,10 @@
 {%-extends "zluinav/templates/base.html"-%}
+{%-block extrahead-%}
+{{super()}}
+<script src="{{get_url(path="scripts/footer.js")}}"></script>
+{%-endblock extrahead-%}
+{%-block footer-%}
+<h2>Useful links</h2>
+<a href="https://t.me/harrymktg" target="_blank">Developer's Telegram Channel</a>
+<script>addfooter();</script>
+{%-endblock footer-%}
