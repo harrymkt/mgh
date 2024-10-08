@@ -1,12 +1,12 @@
 {%-extends "base.html"-%}
 {%-block title-%}
-{%-if not docsect-%}{%-set docsect=get_section(path="docs/_index.md")-%}{%-endif-%}
+{%-if not docsect-%}{%-set docsect=get_section(path=section["extra"]["section_path"]|default(value="docs/_index.md"))-%}{%-endif-%}
 {{docsect.title}}{{config.extra.title_sep}}{{super()}}
 {%-endblock title-%}
 {%-block nav-%}
 {{super()}}
-{%-if not docsect-%}{%-set docsect=get_section(path="docs/_index.md")-%}{%-endif-%}
-<nav roll="navigation" aria-label="Documentation">
+{%-if not docsect-%}{%-set docsect=get_section(path=section["extra"]["section_path"]|default(value="docs/_index.md"))-%}{%-endif-%}
+<nav roll="navigation" aria-label={{docsect.title}}>
 <h2>{{docsect.title}}</h2>
 <ul style="list-style-type:none;">
 {%-for doc in docsect.pages%}
