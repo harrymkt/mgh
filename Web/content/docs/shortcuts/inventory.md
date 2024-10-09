@@ -1,8 +1,6 @@
 +++
 title="Inventory Shortcuts"
 +++
-Description | Shortcut for PC | Shortcut for Android
----|---|---
-Next item | Tab
-Previous item | Shift+Tab
-Use the selected item | Enter or Return
+* Tab: Next item.
+* Shift+Tab: Previous item.
+* Enter: Use the selected item. On Android, double tap with 2 fingers.

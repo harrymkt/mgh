@@ -15,11 +15,12 @@ Please note that this game is under construction process and is currently not av
 * Documentation; read the fully written documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
 * Documentation Open Source; contribute to documentations if they are out of date or have not been written.
 * Portability; the game is portable. Extract the zip and start playing!
-* Cross Platform; play the game in Windows, Mac OS, and Linux, as well as Android will be supported in the future!
+* Cross Platform; play the game in Windows, Mac OS, and Linux, as well as Android!
 
 ## Requirements{#requirements}
-* Operating system: Windows, Linux, Mac OS.
+* Operating system: Windows, Linux, Mac OS, Android.
 * 64 bit system.
 * 1 GB ram.
 * Approximately 50 MB of storage is required to store the game.
 * Headphones or speakers; optional but recommended.
+* A keyboard is required to play on Android! While the game has jestures available, all tasks cannot be set.

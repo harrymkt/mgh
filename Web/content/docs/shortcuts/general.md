@@ -1,10 +1,8 @@
 +++
 title="General Shortcuts"
 +++
-Description | Shortcut for PC | Shortcut for Android
----|---|---
-Reload selected weapon | R
-Bring up a menu to select a weapon to draw | D
-Check health | H
-Fires the selected weapon | Either Control
-Exit to main menu | Escape | Back button
+* R: Reloads the selected weapon.
+* D: Brings up a menu to select a weapon to draw. On Android, tripple tap with 2 fingers.
+* H: Checks health.
+* Either Control: Fires the selected weapon. On Android, double tap with 1 finger.
+* Escape: Exit to main menu. On Android, click back button.
