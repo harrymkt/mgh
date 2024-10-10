@@ -17,6 +17,7 @@ anchors = "off"
 nav=[
 {name="Home", url="/.l./"},
 {name="Documentation", url="/.l./docs/"},
+{name="Blog", url="/blog/"},
 {name="Contributing", url="/.l./contribute/"},
 {name="Contributors and credits", url="/.l./contributors/"},
 {name="To Do List", url="/.l./to-do-list/"}
