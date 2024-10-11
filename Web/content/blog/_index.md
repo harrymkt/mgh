@@ -8,4 +8,4 @@ page_template="blogpage.html"
 # Blog
 Here I will share posts related to this game.
 
-## posts
+## Posts

@@ -23,4 +23,4 @@ Please note that this game is under construction process and is currently not av
 * 1 GB ram.
 * Approximately 50 MB of storage is required to store the game.
 * Headphones or speakers; optional but recommended.
-* A keyboard is required to play on Android! While the game has gestures available, all tasks cannot be set. Note, Android version is currently limited until further notice.
+* A keyboard is required to play on Android! While the game has gestures available, all tasks cannot be set. Note, Android version is currently limited until further notice. For example, game data cannot save, you cannot type input etc.
