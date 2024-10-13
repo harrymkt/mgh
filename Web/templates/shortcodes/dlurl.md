@@ -1,1 +1,1 @@
-https://github.com/harrymkt/endless-battle/releases/latest/{{file}}
+https://github.com/harrymkt/endless-battle/releases/latest/download/{{file}}
