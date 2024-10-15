@@ -31,3 +31,6 @@ download for:
 * [Linux]({{dlurl(file="eb-linux.zip")}})
 * [Mac OS]({{dlurl(file="eb.app.zip")}})
 * [Android]({{dlurl(file="eb.apk")}})
+
+## Donation
+This game is completely free. When we speak free, it's a complete free. No fees. However, if you love this game and want to buy me a coffee, you can do via [PayPal](https://paypal.me/harrymk64). Again thanks if you do so, I'd be appreciated!
