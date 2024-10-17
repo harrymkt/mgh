@@ -24,7 +24,9 @@ This game will provide you with endless hours of gameplay until you stop. We dev
 * A keyboard is required to play on Android! While the game has gestures available, all tasks cannot be set. Note, Android version is currently limited until further notice. For example, game data cannot save, you cannot type input etc.
 
 ## Download{#download}
-Version: Always Latest
+<p id="version"></p>
+<p id="version_date"></p>
+{{gh()}}
 
 download for:
 * [Windows]({{dlurl(file="eb.zip")}})
