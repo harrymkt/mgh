@@ -1,6 +1,6 @@
 +++
-title="Endless Battle First Version is Ready!"
-date=2024-10-13T15:10:00+06:30
+title = "Endless Battle First Version is Ready!"
+date = 2024-10-13T15:10:00+06:30
 +++
 Hello everyone!
 <!--more-->

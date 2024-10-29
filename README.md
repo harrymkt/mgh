@@ -1,9 +1,9 @@
-# Endless Battle
-Review the [To-Do-List](https://harrymkt.github.io/endless-battle/to-do-list) to find out what's needed.
+# Mini Games Hub
+Review the [To-Do-List](https://harrymkt.github.io/mgh/to-do-list) to find out what's needed.
 
-Endless Battle is an offline 3D shooting game for visually impaired and this is the repository to keep the documentation as well as the website host. If documentations are incorrect and/or out of date, you can contribute.
+Mini Games Hub is an offline set of mini games bundled into 1 game, for visually impaired and this is the repository to keep the documentation as well as the website host. If documentations are incorrect and/or out of date, you can contribute.
 
-[Website](https://harrymkt.github.io/endless-battle)
+[Website](https://harrymkt.github.io/mgh)
 
 ## Updating theme
 As more features are available to Zola theme, you need to update into your local computer. Please note that this is not required to do, unless you want to build the website from source yourself.
