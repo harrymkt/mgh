@@ -3,4 +3,4 @@
 *.toml linguist-detectable linguist-vendored=false linguist-generated=false linguist-documentation=false
 *.yaml linguist-detectable linguist-vendored=false linguist-generated=false linguist-documentation=false
 *.yml linguist-detectable linguist-vendored=false linguist-generated=false linguist-documentation=false
-*.md linguist-detectable
+*.md
