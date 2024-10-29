@@ -1,6 +1,6 @@
 +++
 title = "Mini Games Hub Changes"
-++ +
++++
 # Mini Games Hub Changes
 ## New in version 0.0.3 (build 2024.10.29)
 * Changed the name to Mini Games Hub, and added a new mini game! Of course, new mini game suggestions are always welcome!
