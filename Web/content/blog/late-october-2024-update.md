@@ -2,7 +2,7 @@
 title = "Late October 2024 Update"
 date = 2024-10-29T11:35:00+06:30
 +++
-Hello everyone! I would like to inform all players about this 2024 update that contains a large improvements and a few new features.
+Hello everyone! I would like to inform all players about this October 2024 update that contains a large improvements and a few new features.
 <!--more-->
 Please note that this update is mostly planned for bug fixes, improvements, while adding few new features to the game. I would like you to read this post till the end to understand changes made in this update.
 
