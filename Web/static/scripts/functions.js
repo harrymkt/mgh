@@ -39,6 +39,24 @@ async function get_gh_release_info(owner, repo, which = "latest", what = "tag_na
 		return `Error fetching release ${which}: ${error}`;
 	}
 }
+async function get_gh_asset_info(owner, repo, assetName, tag = "latest") {
+	const url = `https://api.github.com/repos/${owner}/${repo}/releases/${tag}`;
+
+	try {
+		const response = await fetch(url);
+		
+		if (!response.ok) {
+			return null;
+		}
+
+		const data = await response.json();
+		const asset = data.assets.find(a => a.name === assetName);
+
+		return asset || null;  // Return the asset object if found, otherwise null
+	} catch (error) {
+		return null;
+	}
+}
 function get_storage(value, otherwise = "undefined") {
 	var n = localStorage.getItem(value);
 	if (n === "" || n === "undefined" || n === null) n = otherwise;

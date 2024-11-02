@@ -9,24 +9,26 @@ Please note that this update is mostly planned for bug fixes, improvements, whil
 Lets begin!
 
 ## Name Change
-The first thing you're gonna notice is the game's name's changed. Yes, I would like to add other mini games, so that's why the game got renamed. In this update a new mini game is added for a total of 2. Of course, Endless Battle will be the first you see in the list.
+The first thing you're gonna notice is the game's name's changed. Yes, I would like to add other mini games, so that's why the game got renamed. In this update a new mini game is added for a total of 2. Of course, Endless Battle will be the first you see in the list. New mini game suggestions are always welcome and will be appreciated.
 
 ## Android Launch Screen
 Well. Since I'm actively working the game for Android for those who want to play, I added a new quick feature at the Android first launch screen. When you launch the game from Android, a sound will play, suggesting to turn off your screen reader and to use a keyboard for the fullest possible experience.
 This audio clip takes around 10 to 15 seconds, so if you don't want to listen, you can skip it by double tapping with 1 finger on the screen.
 
 ## Gender Selection
-Android devices can now choose gender before gameplay. This makes it possible to play player base voices base on the gender. When you click play game option, it will ask you to choose a gender. If you failed to choose your gender, the game will exit.
+Android devices can now choose gender before gameplay. This makes it possible to play player base voices base on the gender. When you click play game option, it will ask you to choose a gender. If you failed to choose your gender, the game will exit. This means that no madder what, you must choose a gender.
 
 ## Settings Dialog
 While PC versions use audio form controls to navigate settings dialog, Android had to use menu base system. This is because form controls do not currently work with Android devices. In the settings dialog, you can double tap with 2 fingers on the screen to change the state of a checkbox. To activate an option, for instance, "Save Options", you can double tap with 1 finger on the screen. Settings dialog is usually navigated by swipes since it is menu based.
 
 ## More Android Gestures
-There are 2 new gestures that get added into  Endless Battle mini game:
+There are 2 new gestures that get added into  Endless Battle mini game which are also documented in the respective section:
 * Swipe up 3 fingers to check ammo.
 * Swipe down 3 fingers to check coordinates.
 
 Wo, near to 4 fingers, isn't it? Well, I'm simply trying to be able to play the game without a keyboard, but no that is not currently possible if you want to get its fullest experience and abilities! Also note that since the game got renamed, future updates will contain the same gestures but for different mini games.
+
+Some mini games don't require a keyboard to play, and they will be documented clearly in each game's about section.
 
 ## Screen Reading Problem
 Hopefully, I fixed screen reading problem on some Android devices by using an alternative screen reading method. Thanks several players for report! Screen reader should now work as expected, if it doesn't please let me know!

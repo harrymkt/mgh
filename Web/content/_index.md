@@ -39,10 +39,10 @@ Please note that these requirements and recommendations may be updated at any ti
 All the links are permanent.
 
 download for:
-* [Windows]({{dlurl(file="mgh.zip")}})
-* [Linux]({{dlurl(file="eb-linux.zip")}})
-* [Mac OS]({{dlurl(file="mgh.app.zip")}})
-* [Android]({{dlurl(file="mgh.apk")}})
+* [Windows]({{dlurl(file="mgh.zip")}})<span id="dcw"></span>{{dc(id = "dcw", file = "mgh.zip")}}
+* [Linux]({{dlurl(file="mgh-linux.zip")}})<span id="dcl"></span>{{dc(id = "dcl", file = "mgh-linux.zip")}}
+* [Mac OS]({{dlurl(file="mgh.app.zip")}})<span id="dcmos"></span>{{dc(id = "dcmos", file = "mgh.app.zip")}}
+* [Android]({{dlurl(file="mgh.apk")}})<span id="dca"></span>{{dc(id = "dca", file = "mgh.apk")}}
 
 ## Donation
 This game is completely free. When we speak free, it's a complete free. No fees. However, if you love this game and want to buy me a coffee, you can do via [PayPal](https://paypal.me/harrymk64), again thanks if you do so, I'd be appreciated!
