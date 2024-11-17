@@ -2,3 +2,12 @@ main:
   - name: "Home"
     pageRef: "/"
     weight: 1
+  - name: "Documentation"
+    pageRef: "/docs"
+    weight: 10
+  - name: "Blog"
+    pageRef: "/blog"
+    weight: 20
+  - name: "Contributors and credits"
+    pageRef: "/contributors"
+    weight: 30
