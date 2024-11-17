@@ -1,13 +1,15 @@
-+++
-title = "Shortcuts"
-weight = 10
-+++
+---
+title: "Shortcuts"
+type: doc
+weight: 10
+---
 # $title$
 ## Movement and Navigation
 * Q: Turn left 45 degrees. On Android, swipe left with 3 fingers.
 	Combine with Shift key will turn by 90 degrees, Android touch not available.
 * E: Turn right 45 degrees. On Android, swipe right with 3 fingers.
 	Combine with Shift key will turn by 90 degrees, Android touch not available.
+* S: Turn by a full 180 degrees, Android touch not available.
 * F: Checks direction.
 * C: Checks coordinates. On Android, swipe down with 3 fingers.
 * Spacebar: Jumps. On Android, swipe down with 2 fingers.
