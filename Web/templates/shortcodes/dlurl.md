@@ -1,1 +1,0 @@
-https://github.com/harrymkt/mgh/releases/latest/download/{{file}}
