@@ -3,7 +3,7 @@ title: "Shortcuts"
 type: doc
 weight: 10
 ---
-# $title$
+# %title%
 ## Movement and Navigation
 * Q: Turn left 45 degrees. On Android, swipe left with 3 fingers.
 	Combine with Shift key will turn by 90 degrees, Android touch not available.

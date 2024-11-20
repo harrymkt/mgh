@@ -3,7 +3,7 @@ title: "About Endless Battle"
 type: doc
 weight: 1
 ---
-# $title$
+# %title%
 Endless Battle is a 3D shooting game. This is the first game ever available on Mini Games Hub, because the initial idea is to develop Endless Battle but then got transfered into Mini Games Hub, with this game being the first to present.
 
 ## Features

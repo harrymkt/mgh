@@ -1,7 +1,7 @@
 ---
 title: "Contributors and Credits"
 ---
-# $title$
+# %title%
 This is the list of contributors who helped the game better. Looking for ways to contribute? Remember, even feedbacks and suggestions count in contribution. Check [how to contribute]({{% relref "/contribute.md" %}}).
 * [Sam Tupy](https://samtupy.com/): Provider of NVGT, the game engine this game is used.
 * [GitHub](https://github.com): Website host, for public contributions and to maintain releases, as well as private repository for source code keeping for the purposes of backup and collaborative contributions.

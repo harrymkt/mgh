@@ -1,7 +1,7 @@
 ---
 title: "Contributing"
 ---
-# $title$
+# %title%
 ## Documentation
 You can contribute documentation if you have GitHub knowledge.
 To contribute, site and/or documentation improvements, visit [this repository](https://github.com/harrymkt/mgh).
