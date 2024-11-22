@@ -1,7 +1,7 @@
----
-title: "Late October 2024 Update"
-date: 2024-10-29T11:35:00+06:30
----
++++
+date = 2024-10-29T11:35:00+06:30
+title = "Late October 2024 Update"
++++
 Hello everyone! I would like to inform all players about this October 2024 update that contains a large improvements and a few new features.
 <!--more-->
 Please note that this update is mostly planned for bug fixes, improvements, while adding few new features to the game. I would like you to read this post till the end to understand changes made in this update.
@@ -23,8 +23,8 @@ While PC versions use audio form controls to navigate settings dialog, Android h
 
 ## More Android Gestures
 There are 2 new gestures that get added into  Endless Battle mini game which are also documented in the respective section:
-* Swipe up 3 fingers to check ammo.
-* Swipe down 3 fingers to check coordinates.
+- Swipe up 3 fingers to check ammo.
+- Swipe down 3 fingers to check coordinates.
 
 Wo, near to 4 fingers, isn't it? Well, I'm simply trying to be able to play the game without a keyboard, but no that is not currently possible if you want to get its fullest experience and abilities! Also note that since the game got renamed, future updates will contain the same gestures but for different mini games.
 
@@ -43,8 +43,8 @@ Lastly, you also have the ability to read the numbers you've written. Your writt
 Please note that Android version still cannot type any letters except for the numbers at the moment. Still, I'll be working on form controls.
 
 ## Conclusion
-Well, that's it guys. Please note that you should check the [change log]({{% relref "/changelog.md" %}}) to view the full changes made.
+Well, that's it guys. Please note that you should check the [change log](@/changelog.md) to view the full changes made.
 
-Lastly, don't forget to read the [documentation]({{% relref "/docs/_index.md" %}}) for a list of shortcuts.
+Lastly, don't forget to read the [documentation](@/docs/_index.md) for a list of shortcuts.
 
 **Happy gaming!**

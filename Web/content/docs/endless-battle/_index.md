@@ -1,5 +1,6 @@
----
-title: "Endless Battle (Mini Game)"
-type: doc
-weight: 1
----
++++
+title = "Endless Battle (Mini Game)"
+render = false
+sort_by = "weight"
+weight = 1
++++

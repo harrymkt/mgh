@@ -1,0 +1,10 @@
+<script>
+const {{ id }} = document.getElementById("{{ id }}");
+if ({{ id }}) {
+	get_gh_asset_info("harrymkt", "mgh", "{{ file}}").then(t => {
+		{{ id }}.textContent = `Download count: ${t.download_count}`;
+		totaldownload += t.download_count;
+		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+	});
+}
+</script>

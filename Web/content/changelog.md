@@ -1,6 +1,6 @@
----
-title: "Mini Games Hub Changes"
----
++++
+title = 'Mini Games Hub Changes'
++++
 # Mini Games Hub Changes
 ## New in version 0.0.4 (build 2024.11.17)
 Please note that the Android version still cannot save data.

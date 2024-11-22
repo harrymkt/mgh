@@ -1,0 +1,24 @@
+# Build output directory
+output_dir = "HTML"
+# Title of the site
+title = "Mini Games Hub"
+base_url = "https://harrymkt.github.io/mgh"
+theme = "zluinav"
+# Default author to be used if the page does not have set one.
+author = "Harry Min Khant"
+# Feed filename
+feed_filenames = ["rss.xml"]
+# We don't need Sass
+compile_sass = false
+# Search feature is currently not supported in this theme
+build_search_index = false
+# Default language
+default_language = "en"
+[extra]
+  nav = [
+    {name = "Home", url = "/.l./", key = "H", id = "nav1"},
+    {name = "Documentation", url = "/docs/"},
+    {name = "Blog", url = "/.l./blog/", title = "Read the latest news", id = "nav3"},
+    {name = "Contributors and Credits", url = "/.l./contributors"},
+    {name = "To-Do List", url = "/.l./to-do-list"}
+  ]
