@@ -1,10 +1,10 @@
 name: Deploy Website
 on:
   push:
-    paths: ["content/**", "static/**", "langs/**", "templates/**", "config.toml"]
+    paths: ["Web/**"]
     branches: [main]
   pull_request:
-    paths: ["content/**", "static/**", "langs/**", "templates/**", "config.toml"]
+    paths: ["Web/**"]
   workflow_dispatch:
 jobs:
   build-and-deploy:
