@@ -1,8 +1,0 @@
-baseURL: https://harrymkt.github.io/mgh
-title: Mini Games Hub
-cleanDestinationDir: true
-publishDir: HTML
-theme: hguinav
-pagination:
-  disableAliases: false
-  pagerSize: 10
