@@ -4,7 +4,6 @@ title: "Mini Games Hub Changes"
 # Mini Games Hub Changes
 ## New in version 0.0.5 (build 2024.12.08)
 - Fixed the download URL for update.
-Upgrades website to Hugo. The website now supports search functionality!
 - Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
 	- Items in the map will now play a loop sound which will indicate where they are.
 	- Added a new weapon (Knife)! This is small and lightweight, doing only a small amount of damage though it is faster than the Sword. You should get this weapon when your resurrection is 1 or above. Now, the Sword range is increased while the Knife has a shorter range.

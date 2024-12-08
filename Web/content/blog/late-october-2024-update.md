@@ -43,8 +43,8 @@ Lastly, you also have the ability to read the numbers you've written. Your writt
 Please note that Android version still cannot type any letters except for the numbers at the moment. Still, I'll be working on form controls.
 
 ## Conclusion
-Well, that's it guys. Please note that you should check the [change log](@/changelog.md) to view the full changes made.
+Well, that's it guys. Please note that you should check the [change log]({{% relref "/changelog.md" %}}) to view the full changes made.
 
-Lastly, don't forget to read the [documentation](@/docs/_index.md) for a list of shortcuts.
+Lastly, don't forget to read the [documentation]({{% relref "/docs/_index.md" %}}) for a list of shortcuts.
 
 **Happy gaming!**

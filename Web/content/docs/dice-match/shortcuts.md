@@ -1,5 +1,5 @@
 ---
-title: About Dice Match
+title: Shortcodes of Dice Match
 weight: 10
 layout: doc
 ---
