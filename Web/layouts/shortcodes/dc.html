@@ -1,0 +1,12 @@
+{{- $id := .Get "id" -}}
+{{- $file := .Get "file" -}}
+<script>
+const {{ $id | safeJS }} = document.getElementById("{{ $id | safeJS }}");
+if ({{ $id | safeJS }}) {
+	get_gh_asset_info("harrymkt", "mgh", "{{ $file }}").then(t => {
+		{{ $id | safeJS }}.textContent = `Download count: ${t.download_count}`;
+		totaldownload += t.download_count;
+		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+	});
+}
+</script>

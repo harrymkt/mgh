@@ -1,6 +1,5 @@
-+++
-title = "Blackjack (Mini Game)"
-render = false
-sort_by = "weight"
-weight = 2
-+++
+---
+title: Blackjack (Mini Game)
+weight: 2
+layout: doc
+---

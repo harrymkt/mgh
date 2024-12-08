@@ -1,7 +1,8 @@
-+++
-title = "Shortcuts"
-weight = 10
-+++
+---
+title: Shortcuts of Endless Battle
+weight: 10
+layout: doc
+---
 # %title%
 ## Movement and Navigation
 - Q: Turn left 45 degrees. On Android, swipe left with 3 fingers.

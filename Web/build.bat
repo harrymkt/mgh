@@ -1,4 +1,4 @@
 @echo off
 title building
-zola build
+hugo
 pause
