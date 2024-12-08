@@ -1,10 +1,10 @@
 name: Deploy Hugo site to Pages
 on:
   push:
-    paths: ["archetypes/**", "data/**", "demo/**", "i18n/**", "layouts/**", "static/**", "hugo.yaml"]
+    paths: ["Web/**"]
     branches: [main]
   pull_request:
-    paths: ["archetypes/**", "data/**", "demo/**", "i18n/**", "layouts/**", "static/**", "hugo.yaml"]
+    paths: ["Web/**"]
   workflow_dispatch:
 
 env:
@@ -31,11 +31,11 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Build with Hugo
         run: |
-          cd demo
+          cd Web
           hugo \
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: demo/HTML
+          publish_dir: Web/HTML
