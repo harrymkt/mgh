@@ -1,7 +1,8 @@
-+++
-title = "About Blackjack"
-weight = 1
-+++
+---
+title: About Blackjack
+weight: 1
+layout: doc
+---
 # %title%
 In this streamlined version of Blackjack, only cards numbered 1 through 10 are used; no face cards or suits. The objective remains to reach a total of 21 without going over. Each player starts with two cards and can either 'hit' to draw another card or 'stand' to keep their current total. Numbered cards hold their face value, and success in this game requires strategic choices and careful moves, focusing purely on numbers to achieve the winning hand.
 

@@ -1,0 +1,9 @@
+cleanDestinationDir: true
+publishDir: HTML
+title: "Mini Games Hub"
+baseURL: "https://harrymkt.github.io/mgh"
+theme: hguinav
+taxonomies:
+  category: categories
+  tag: tags
+  author: authors

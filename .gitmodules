@@ -1,3 +1,3 @@
-[submodule "zluinav"]
-	path = Web/themes/zluinav
-	url = https://github.com/harrymkt/zluinav.git
+[submodule "hguinav"]
+	path = Web/themes/hguinav
+	url = https://github.com/harrymkt/hguinav.git

@@ -1,28 +1,41 @@
-name: Deploy Website
+name: Deploy Hugo site to Pages
 on:
   push:
-    paths: ["Web/**"]
+    paths: ["archetypes/**", "data/**", "demo/**", "i18n/**", "layouts/**", "static/**", "hugo.yaml"]
     branches: [main]
   pull_request:
-    paths: ["Web/**"]
+    paths: ["archetypes/**", "data/**", "demo/**", "i18n/**", "layouts/**", "static/**", "hugo.yaml"]
   workflow_dispatch:
+
+env:
+  HUGO_VERSION: 0.139.3
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
 jobs:
-  build-and-deploy:
-    runs-on: windows-latest
+  # Build job
+  build:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Install Zola
-        uses: taiki-e/install-action@zola
-      - name: Build the site
+          fetch-depth: 0
+      - name: Install Hugo CLI
         run: |
-          cd Web
-          zola build
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
+      - name: Build with Hugo
+        run: |
+          cd demo
+          hugo \
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: Web/HTML
+          publish_dir: demo/HTML

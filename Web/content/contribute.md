@@ -1,6 +1,6 @@
-+++
-title = "Contributing"
-+++
+---
+title: Contributing
+---
 # %title%
 ## Documentation
 You can contribute documentation if you have GitHub knowledge.
