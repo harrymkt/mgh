@@ -2,140 +2,117 @@
     "items": [
         {
             "url": "https://harrymkt.github.io/mgh/docs/blackjack/about/",
-            "title": "About Blackjack",
-            "content": "%title% In this streamlined version of Blackjack, only cards numbered 1 through 10 are used; no face cards or suits. The objective remains to reach a total of 21 without going over. Each player starts with two cards and can either 'hit' to draw another card or 'stand' to keep their current total. Numbered cards hold their face value, and success in this game requires strategic choices and careful moves, focusing purely on numbers to achieve the winning hand.\nPlay the game and gain in-game currency which can be used across all mini games!\nFeatures Blackjack advertises the following features:\nGain in-game currency which can be used across all the games to buy and exchange items. Numbers only; use 1 to 10 numbers and get a total of 21. Keyboard is not required; Android gestures fully supported. What is the Game Tab? The game tab shows the relevant items based on the selected mode. By default, it’s set to Player mode, where you can see all your cards, along with the count and total.\nModes:\nPlayer Mode: Displays all your cards, including count and total. Default: An empty view where only New, Hit, and Stand options appear. Computer Mode: Shows your opponent’s details, like card count and total. For security, only one opponent card is shown until you select stand. "
+            "title": "About Blackjack"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/dice-match/about/",
-            "title": "About Dice Match",
-            "content": "%title% The objective here, is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you'll earn money equal to 0 to 20 times their total. For example, if the numbers are 5 and 5, their total is 5 + 5 = 10. If the multiplier is, say, you got 15 by luck, you'll receive 150, which is 15 times the total.\nFeatures Dice Match advertises the following features:\nGain in-game currency which can be used across all the games to buy and exchange items. Luck dependent for higher win. Keyboard is not required; Android gestures fully supported. "
+            "title": "About Dice Match"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/endless-battle/about/",
-            "title": "About Endless Battle",
-            "content": "%title% Endless Battle is a 3D shooting game. This is the first game ever available on Mini Games Hub, because the initial idea is to develop Endless Battle but then got transfered into Mini Games Hub, with this game being the first to present.\nFeatures Endless Battle advertises the following features:\n3D; play the game in an environment with 3D support. As such, enemies are likely to appear from all side. Buy extra healing items to prevent your loss through in-game currency gained by either killing enemies or playing other mini games like Blackjack to get in-game currency. Use different weapons to kill enemies. Use Grenades to shot down all, Machineguns to make quick sessions kill, and more. Get more weapons by killing enemies and reaching to its resurrection. A keyboard is recommended on Android. "
+            "title": "About Endless Battle"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/endless-battle/",
-            "title": "Endless Battle (Mini Game)",
-            "content": ""
+            "title": "Endless Battle (Mini Game)"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/blackjack/",
-            "title": "Blackjack (Mini Game)",
-            "content": ""
+            "title": "Blackjack (Mini Game)"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/dice-match/",
-            "title": "Dice Match (Mini Game)",
-            "content": ""
+            "title": "Dice Match (Mini Game)"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/dice-match/shortcuts/",
-            "title": "About Dice Match",
-            "content": "%title% Escape: Quits the game. On Android, click back button. Spacebar: Rolls the dice. On Android, double tap with 1 finger. "
+            "title": "Shortcodes of Dice Match"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/blackjack/shortcuts/",
-            "title": "Shortcuts of Blackjack",
-            "content": "%title% Up and Down arrows: Navigates through the elements. On Android, swipe left and right. Tab and Shift+Tab: Moves through available game tab, player, computer, default. This change will switch cards navigated with navigation keys, for example, your cards will be shown in player tab. On Android, swipe left and right with 2 fingers. Enter: Performs the selected operation, eg new game button. On Android, double tap with 1 finger. Escape: Exit the game. On Android, click back button. "
+            "title": "Shortcuts of Blackjack"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/endless-battle/shortcuts/",
-            "title": "Shortcuts of Endless Battle",
-            "content": "%title% Movement and Navigation Q: Turn left 45 degrees. On Android, swipe left with 3 fingers. Combine with Shift key will turn by 90 degrees, Android touch not available. E: Turn right 45 degrees. On Android, swipe right with 3 fingers. Combine with Shift key will turn by 90 degrees, Android touch not available. S: Turn by a full 180 degrees, Android touch not available. F: Checks direction. C: Checks coordinates. On Android, swipe down with 3 fingers. Spacebar: Jumps. On Android, swipe down with 2 fingers. Arrow keys: Move around the map. Holding down one of them will move continuously to that direction. On Android, swipe to the direction you want to move. You may also hold down to move continuously after the swipe. General / Miscellaneous R: Reloads the selected weapon. On Android, triple tap with 3 fingers. D: Brings up a menu to select a weapon to draw. On Android, triple tap with 2 fingers. H: Checks health. On Android, swipe up with 2 fingers. L: Checks resurrection, level, and experience. On Android, double tap with 3 fingers. Z: Checks ammo, if available. On Android, swipe up with 3 fingers. Either Control: Fires the selected weapon. On Android, double tap with 1 finger. Escape: Exit to main menu. On Android, click back button. Inventory Tab: Next item. On android, swipe right with 2 fingers. Shift+Tab: Previous item. On Android, swipe left with 2 fingers. Enter: Use the selected item. On Android, double tap with 2 fingers. "
+            "title": "Shortcuts of Endless Battle"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/blog/",
-            "title": "Blog",
-            "content": "Blog Here I will share posts related to this game. Follow up to get the most up to date information!\n"
+            "title": "Blog"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/",
-            "title": "Home",
-            "content": "%title% Welcome to Mini Games Hub, an offline set of many mini games bundled into 1 game for visually impaired! This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!\nWarning! Do not play games for a long time which could potentially affect your work. Play games only to get fun for a while, and don't let it affects your work!\nIf you have any feedbacks let me know using Telegram.\nFeatures Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over. 3D; HRTF, or Head Related Transform Function, allows you to play the game in a real 3D environment. Clearly hear the sounds from in front and behind, and endlessly fight around the map. As such, headphone or 3D speakers is recommended. This is only for some mini games like Endless Battle. No visual; accessibility is only what we have. Unfortunately, vision is not one of them. Play directly with your screen reader. Are you advance one? Play the game with your screen reader speech off! Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development. Documentation open Source; contribute to documentations if they are out of date or have not been written. Portability; the game is portable. Extract the zip and start playing! Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future. Requirements and Recommendations Operating system: Windows, Linux, Mac OS, Android. 64 bit system is required. 1 GB ram, 2 GB's recommended. Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates. Headphones or speakers; optional but recommended. A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like Endless Battle. Keyboard requirement will be clearly documented in about section of each mini game. Android version is currently limited until further notice. For example, game data cannot save, you cannot type input etc. Please note that these requirements and recommendations may be updated at any time.\nDownload All the links are permanent. Note: all the download counts are calculated only for the latest version.\ndownload for:\nWindows Android Linux Mac OS Donation This game is completely free. When we speak free, it's a complete free. No fees. However, if you love this game and want to buy me a coffee, you can do via PayPal, again thanks if you do so, I'd be appreciated!\n"
+            "title": "Home"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/blog/late-october-2024-update/",
-            "title": "Late October 2024 Update",
-            "content": "Hello everyone! I would like to inform all players about this October 2024 update that contains a large improvements and a few new features.\nPlease note that this update is mostly planned for bug fixes, improvements, while adding few new features to the game. I would like you to read this post till the end to understand changes made in this update.\nLets begin!\nName Change The first thing you're gonna notice is the game's name's changed. Yes, I would like to add other mini games, so that's why the game got renamed. In this update a new mini game is added for a total of 2. Of course, Endless Battle will be the first you see in the list. New mini game suggestions are always welcome and will be appreciated.\nAndroid Launch Screen Well. Since I'm actively working the game for Android for those who want to play, I added a new quick feature at the Android first launch screen. When you launch the game from Android, a sound will play, suggesting to turn off your screen reader and to use a keyboard for the fullest possible experience. This audio clip takes around 10 to 15 seconds, so if you don't want to listen, you can skip it by double tapping with 1 finger on the screen.\nGender Selection Android devices can now choose gender before gameplay. This makes it possible to play player base voices base on the gender. When you click play game option, it will ask you to choose a gender. If you failed to choose your gender, the game will exit. This means that no madder what, you must choose a gender.\nSettings Dialog While PC versions use audio form controls to navigate settings dialog, Android had to use menu base system. This is because form controls do not currently work with Android devices. In the settings dialog, you can double tap with 2 fingers on the screen to change the state of a checkbox. To activate an option, for instance, \u0026quot;Save Options\u0026quot;, you can double tap with 1 finger on the screen. Settings dialog is usually navigated by swipes since it is menu based.\nMore Android Gestures There are 2 new gestures that get added into Endless Battle mini game which are also documented in the respective section:\nSwipe up 3 fingers to check ammo. Swipe down 3 fingers to check coordinates. Wo, near to 4 fingers, isn't it? Well, I'm simply trying to be able to play the game without a keyboard, but no that is not currently possible if you want to get its fullest experience and abilities! Also note that since the game got renamed, future updates will contain the same gestures but for different mini games.\nSome mini games don't require a keyboard to play, and they will be documented clearly in each game's about section.\nScreen Reading Problem Hopefully, I fixed screen reading problem on some Android devices by using an alternative screen reading method. Thanks several players for report! Screen reader should now work as expected, if it doesn't please let me know!\nAndroid Number Keypad Added Android number field. Uh, of course, this is simulation. Once the field is popped out you can click on the numbers you want to type, and click done button to finish. This is the only way that Android devices can type, but it will be converted to form type as soon as it's available to be! This depends on the engine that is used to develop this game, so we can currently do nothing about it.\nThere is also an option called \u0026quot;Backspace\u0026quot; to delete the last number. You can click back button at any time to quit the input.\nLastly, you also have the ability to read the numbers you've written. Your written numbers will display at the top of the menu, which is the first option you see in the menu.\nPlease note that Android version still cannot type any letters except for the numbers at the moment. Still, I'll be working on form controls.\nConclusion Well, that's it guys. Please note that you should check the change log to view the full changes made.\nLastly, don't forget to read the documentation for a list of shortcuts.\nHappy gaming!\n"
+            "title": "Late October 2024 Update"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/blog/available/",
-            "title": "Endless Battle First Version is Ready!",
-            "content": "Hello everyone!\nAfter a long time, Endless Battle is finally ready!\nRemember, although this is not a beta version, Android support should be noted that it is still young.\nAny bug report / suggestion is welcome!\nPlease visit download section of the home page to download!\n"
+            "title": "Endless Battle First Version is Ready!"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/blog/intro/",
-            "title": "Introduction",
-            "content": "Hello everyone! Endless Battle game is being redeveloped after I lost my hard disk talked about in this blog post\nSo, this is the date this game is redeveloped.\nPlease wait while I prepare for public release after finishing up!\nWhat's to come? A complete redesign with future possible improvements compared to the lost version which would be defined by user suggestions and experience feedbacks. Cross platform support will be included, with android also being available thanks to NVGT's cross platform system. I-OS support is still to be made available in the near future. "
+            "title": "Introduction"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/authors/",
-            "title": "Authors",
-            "content": ""
+            "title": "Authors"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/categories/",
-            "title": "Categories",
-            "content": ""
+            "title": "Categories"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/contribute/",
-            "title": "Contributing",
-            "content": "%title% Documentation You can contribute documentation if you have GitHub knowledge. To contribute, site and/or documentation improvements, visit this repository.\nDeveloper This game is not an open source and therefore developer acceptance is fewer chance. For sound contribution, you can send on Telegram directly.\nTo become a developer in this game, here are requirements:\nYou must have knowledge with GitHub, as this is the platform we use to develop together. You must agree that under no circumstances are you allowed to share any information from that private repository, including announcements, unreleased versions and/or private releases unless otherwise permitted. You must never share game related security informations including debug keys and logs, with or without permission from the developer. You must have knowledge with the NVGT game engine. Contact\n"
+            "title": "Contributing"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/contributors/",
-            "title": "Contributors and Credits",
-            "content": "%title% This is the list of contributors who helped the game better. Looking for ways to contribute? Remember, even feedbacks and suggestions count in contribution. Check how to contribute.\nSam Tupy: Provider of NVGT, the game engine this game is used. GitHub: Website host, for public contributions and to maintain releases, as well as private repository for source code keeping for the purposes of backup and collaborative contributions. Hugo: A static site generator written in Go, which helped generating this website way easy than having manually writing down much HTML/JS, with the ability to use themes of my own. Dao Duc Trung (the owner of ddt.one): Thanks for giving me the idea to create a game zone, that is, many mini games bundled into 1 game. While the game is initially planned for battle game, this idea brings me into creating something that wouldn't be boring for everyone. By the way, if you want to get useful resources and informations, you should probably visit his website. Lastly but not miss, thanks everybody who play this game and their suggestions. Without user suggestions and above contributors this game wouldn't have gotten this far. "
+            "title": "Contributors and Credits"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/docs/",
-            "title": "Documentation",
-            "content": "%title% To contribute, site and/or documentation improvements, visit this repository.\n"
+            "title": "Documentation"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/changelog/",
-            "title": "Mini Games Hub Changes",
-            "content": "Mini Games Hub Changes New in version 0.0.5 (build 2024.12.08) Fixed the download URL for update. Upgrades website to Hugo. The website now supports search functionality! Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made: Items in the map will now play a loop sound which will indicate where they are. Added a new weapon (Knife)! This is small and lightweight, doing only a small amount of damage though it is faster than the Sword. You should get this weapon when your resurrection is 1 or above. Now, the Sword range is increased while the Knife has a shorter range. Added a new enemy (Bear!) Be careful, it does a little higher amount of damage than Wolf. Require experience point will now randomize. You can now customize the spawn time of enemy and it is set to 10 seconds by default. Added buffer! This means that you can review informations that you've missed. For example, alerts and in-game important notifications. You can press left and right brackets to switch between buffers (holding down Shift will move to top or bottom), and you can press the Comma key or Period key to move through the current buffer (holding down Shift will move to top or bottom). Android gestures not supported. Introducing a new mini-game: Dice Match! The objective is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you'll earn money equal to 0 to 20 times their total. There you go, Android gamers, because this mini game fully supports gestures and thus keyboard is not required! New in version 0.0.4 (build 2024.11.17) Please note that the Android version still cannot save data.\nThis update Fixes a serious bug that the store item health drink is being incorrect. It's now changed to health potion, which is making wrong item. All health drinks that you have purchased will be transfered to health potion automatically. Thanks Jes Bel for report! Computer sequence in Blackjack will now more randomize and doesn't nearly always win or lose. Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made: You can now select the map you want to play on. Of course, there is currently 1 map, but it will be expanded in the future. Added items! Now, when an enemy dies, a random item will be spawned at its location which will be picked up if you're close enough with it. Fixed inventory item speech on Android which causes the item to stop speaking. The positional speak of the inventory item has now been removed. You can now rotate a full 180 degrees by pressing the S key. Android gesture not available. Improved in-game shortcuts announcement. At the start of Blackjack it will tell the shortcuts related to it depending on the platform you're on. Added test speaker in the main menu to test your speaker's position in realtime. Added the message that will speak upon the click of the \u0026quot;Check for Updates\u0026quot; icon. New in version 0.0.3 (build 2024.10.29) Changed the name to Mini Games Hub, and added a new mini game! Of course, new mini game suggestions are always welcome! In this new mini game, you play blackjack. You can move up and down arrows to navigate through the game's structure. When you gained dollars, you can use them to buy health items, ammos, etc for Endless Battle mini game. Changes for Android; These are changes that have been applied to Android operating system as well as game UI related to it: Upon opening the game on Android, it will play a sound file which suggests to turn off your screen reader and using a keyboard if possible. To skip the sound you can double tap with 1 finger on the screen. Android platform can now select gender as the play game option is pressed. You can now change settings on Android! Since forms aren't able to navigate on Android, a menu base system is added to it. Also note, to check or uncheck a checkbox in the menu, double tap with 2 fingers. More Android gestures for Endless Battle: Swipe up with 3 fingers to check ammo, and swipe down with 3 fingers to check coordinates. Wo, near to 4 fingers! Hopefully fixed screen reading problem on some Android devices by using an alternative screen reading method. Thanks several players for report! Added Android number field. Uh, of course, this is simulation. Once the field is popped out you can click on the numbers you want to type, and click done button to finish. This is the only way that Android devices can type. Updates will now include about update build date. Eg build 2024.10.19. Added sounds for update available, started, and canceled. New in version 0.0.2 (build 2024.10.19) You can now press F1 on each store item to get its description. Fixed speech interrupting in menus, especially with Android having speech interrupt on. On Android if you want to force speech stop while you're in game play, triple tap with 1 finger. Fixed enemy death sound not playing in the correct listener. You can now click on \u0026quot;get system information\u0026quot; icon in the main menu to get information related to system, including its information and necessary debug logs. Only do this when it's necessary, for example if you asked a question related to device issue, so developer might need to ask you that information; only provide it when it is asked! The information you retrieved is encrypted, meaning only developers can extract its information, adding another possible security implementations to each information that you provide. This also means that even if the information is published publicly to the internet, no one will be able to access its original form. Decreased jump time a bit. Improved store related text strings. Information of the weapons have been removed from the weapon draw menu. Instead, you will have to press F1 to read the weapon's related information while you're at it. You can now rotate 90 degrees by pressing turn keys (Q and E) while holding down Shift. This 90 degrees rotation is not currently available by touch. In-game key shortcuts can now display base on the operating system! Added pluralization strings to items, for instance, store purchases. New in version 0.0.1 (build 2024.10.13) First release "
+            "title": "Mini Games Hub Changes"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/search/",
-            "title": "Search",
-            "content": ""
+            "title": "Search"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/tags/",
-            "title": "Tags",
-            "content": ""
+            "title": "Tags"
         }
         ,
         {
             "url": "https://harrymkt.github.io/mgh/to-do-list/",
-            "title": "To Do List",
-            "content": "%title% This list contains code improvements or libraries that are still need to be defined, added, used, modified, replaced or otherwise changed in order to get the best possible working and are beneficial to display in public interestry.\nTranslation system Currently, we have a private translation system but it is not used yet, which features including dynamic variables and using IDs, fallback dictionary if the translated ID is not found for the current selected language, and so on. Unfortunately, this system is at least for now, but not the advance level. This system is not ideal for the following reasons:\nThe system's dynamic variables feature is not good enough to translate. For example, a {1} is {2}, about {3} tiles away. In this case, {2} is the variable which tells the direction, in front, behind, etc. However, we cannot subtranslate the part such as in front, behind, etc, because the dynamic variables feature can only translate once for a given ID. Either we must find a good system for this task, or use the messages instead of IDs, which could have more control over the translations, but we will still have the problem of lower and upper case for the messages again in this one, so we need to decide the best use of system for the translation. We could also use the regular expression provided by NVGT to determine the location of the translation strings by using wildcards all over the messages while the dynamic variables system is still being used but with improvements, because in the regular expression patterns we don't need to use the regular replace functions, since it already finds a matching pattern and replaces itself. If we made it, then it will be a hundred percent reliable translation system, but it requires learning and additional time because the regular expression patterns are tricky, so any help would be appreciated. Using this system will avoid having to change to message base translation. We're not sitting after asking your suggestions related to the translation. Instead, we're also discussing about the regular expression usage with the global NVGT community and looking for each of their response.\nUntil then, the translation system cannot be added into the game. The reason is that who will be using translation system if the directions as well as necessary informations can't be translated, such as directions (behind, in front, left, right, north, south), so it is why we have made up to only add the system after which the problem is solved.\n"
+            "title": "To Do List"
         }
     ]
 }
