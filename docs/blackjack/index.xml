@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blackjack (Mini Game) on Mini Games Hub</title>
+    <link>https://harrymkt.github.io/mgh/docs/blackjack/</link>
+    <description>Recent content in Blackjack (Mini Game) on Mini Games Hub</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://harrymkt.github.io/mgh/docs/blackjack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Blackjack</title>
+      <link>https://harrymkt.github.io/mgh/docs/blackjack/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/blackjack/about/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;In this streamlined version of Blackjack, only cards numbered 1 through 10 are used; no face cards or suits. The objective remains to reach a total of 21 without going over. Each player starts with two cards and can either &#39;hit&#39; to draw another card or &#39;stand&#39; to keep their current total. Numbered cards hold their face value, and success in this game requires strategic choices and careful moves, focusing purely on numbers to achieve the winning hand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcuts of Blackjack</title>
+      <link>https://harrymkt.github.io/mgh/docs/blackjack/shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/blackjack/shortcuts/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Up and Down arrows: Navigates through the elements. On Android, swipe left and right.&lt;/li&gt;&#xA;&lt;li&gt;Tab and Shift+Tab: Moves through available game tab, player, computer, default. This change will switch cards navigated with navigation keys, for example, your cards will be shown in player tab. On Android, swipe left and right with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Enter: Performs the selected operation, eg new game button. On Android, double tap with 1 finger.&lt;/li&gt;&#xA;&lt;li&gt;Escape: Exit the game. On Android, click back button.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

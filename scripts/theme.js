@@ -1,5 +1,5 @@
 /*
-JS functions for zluinav theme which is distributed under the terms of the MIT License
+JS functions
 */
 function ts_to_readable_time(timestamp, showsecond = false, ltext = '', show_full=true) {
 	/*
@@ -17,7 +17,7 @@ function ts_to_readable_time(timestamp, showsecond = false, ltext = '', show_ful
 	var months = Math.floor(days / 30);
 	var years = Math.floor(months / 12);
 	var output = '';
-if(!show_full) {
+	if(!show_full) {
 		if (years > 0) {
 			output = years + " year";
 			if (years > 1) output += "s";
@@ -74,8 +74,8 @@ if(!show_full) {
 }
 function normalize_iso_datetime(dateString) {
 	// Convert date string into a valid ISO format (inserting colon in the timezone)
-	const validDateString = dateString.replace(/([+-]\d{2})(\d{2})$/, '$1:$2');
-	return validDateString;
+	const valid_dateString = dateString.replace(/([+-]\d{2})(\d{2})$/, '$1:$2');
+	return valid_dateString;
 }
 function local_datetime_string(date_input) {
 	var r = new Date(date_input);
@@ -98,9 +98,36 @@ function local_datetime_string(date_input) {
 }
 function get_timestamp(dateString) {
 	// Convert date string into a valid ISO format (inserting colon in the timezone)
-	const validDateString = normalize_iso_datetime(dateString);
+	const valid_dateString = normalize_iso_datetime(dateString);
 	// Create a new Date object from the valid date string
-	const date = new Date(validDateString);
+	const date = new Date(valid_dateString);
 	// Return the timestamp (milliseconds since epoch)
 	return date.getTime();
+}
+function switch_tab(tab_id) {
+	// Hide all tab contents
+	const contents = document.querySelectorAll(".tab-content");
+	contents.forEach(content => {
+		content.style.display = "none";
+	});
+	// Remove active class from all tabs
+	const tabs = document.querySelectorAll(".tab");
+	tabs.forEach(tab => {
+		tab.classList.remove("active");
+		tab.setAttribute("aria-selected", "false");
+		tab.setAttribute("tabindex", "-1");
+	});
+	// Show the selected tab content and set it as active
+	if (tab_id !== null) {
+		const selected_content = document.getElementById("tab-content-" + tab_id);
+		if (selected_content) {
+			selected_content.style.display = "block";
+		}
+		const selected_tab = document.querySelector(`.tab[data-tab-id="${tab_id}"]`);
+		if (selected_tab) {
+			selected_tab.classList.add("active");
+			selected_tab.setAttribute("aria-selected", "true");
+			selected_tab.setAttribute("tabindex", "0");
+		}
+	}
 }

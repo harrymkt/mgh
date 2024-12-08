@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Mini Games Hub</title>
+    <link>https://harrymkt.github.io/mgh/</link>
+    <description>Recent content in Home on Mini Games Hub</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Oct 2024 11:35:00 +0630</lastBuildDate>
+    <atom:link href="https://harrymkt.github.io/mgh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Blackjack</title>
+      <link>https://harrymkt.github.io/mgh/docs/blackjack/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/blackjack/about/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;In this streamlined version of Blackjack, only cards numbered 1 through 10 are used; no face cards or suits. The objective remains to reach a total of 21 without going over. Each player starts with two cards and can either &#39;hit&#39; to draw another card or &#39;stand&#39; to keep their current total. Numbered cards hold their face value, and success in this game requires strategic choices and careful moves, focusing purely on numbers to achieve the winning hand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Dice Match</title>
+      <link>https://harrymkt.github.io/mgh/docs/dice-match/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/dice-match/about/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;The objective here, is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you&#39;ll earn money equal to 0 to 20 times their total. For example, if the numbers are 5 and 5, their total is 5 + 5 = 10. If the multiplier is, say, you got 15 by luck, you&#39;ll receive 150, which is 15 times the total.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Endless Battle</title>
+      <link>https://harrymkt.github.io/mgh/docs/endless-battle/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/endless-battle/about/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;Endless Battle is a 3D shooting game. This is the first game ever available on Mini Games Hub, because the initial idea is to develop Endless Battle but then got transfered into Mini Games Hub, with this game being the first to present.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;p&gt;Endless Battle advertises the following features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3D; play the game in an environment with 3D support. As such, enemies are likely to appear from all side.&lt;/li&gt;&#xA;&lt;li&gt;Buy extra healing items to prevent your loss through in-game currency gained by either killing enemies or playing other mini games like Blackjack to get in-game currency.&lt;/li&gt;&#xA;&lt;li&gt;Use different weapons to kill enemies. Use Grenades to shot down all, Machineguns to make quick sessions kill, and more. Get more weapons by killing enemies and reaching to its resurrection.&lt;/li&gt;&#xA;&lt;li&gt;A keyboard is recommended on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About Dice Match</title>
+      <link>https://harrymkt.github.io/mgh/docs/dice-match/shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/dice-match/shortcuts/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Escape: Quits the game. On Android, click back button.&lt;/li&gt;&#xA;&lt;li&gt;Spacebar: Rolls the dice. On Android, double tap with 1 finger.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Shortcuts of Blackjack</title>
+      <link>https://harrymkt.github.io/mgh/docs/blackjack/shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/blackjack/shortcuts/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Up and Down arrows: Navigates through the elements. On Android, swipe left and right.&lt;/li&gt;&#xA;&lt;li&gt;Tab and Shift+Tab: Moves through available game tab, player, computer, default. This change will switch cards navigated with navigation keys, for example, your cards will be shown in player tab. On Android, swipe left and right with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Enter: Performs the selected operation, eg new game button. On Android, double tap with 1 finger.&lt;/li&gt;&#xA;&lt;li&gt;Escape: Exit the game. On Android, click back button.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Shortcuts of Endless Battle</title>
+      <link>https://harrymkt.github.io/mgh/docs/endless-battle/shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/endless-battle/shortcuts/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;h2 id=&#34;movement-and-navigation&#34;&gt;Movement and Navigation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Q: Turn left 45 degrees. On Android, swipe left with 3 fingers.&#xA;Combine with Shift key will turn by 90 degrees, Android touch not available.&lt;/li&gt;&#xA;&lt;li&gt;E: Turn right 45 degrees. On Android, swipe right with 3 fingers.&#xA;Combine with Shift key will turn by 90 degrees, Android touch not available.&lt;/li&gt;&#xA;&lt;li&gt;S: Turn by a full 180 degrees, Android touch not available.&lt;/li&gt;&#xA;&lt;li&gt;F: Checks direction.&lt;/li&gt;&#xA;&lt;li&gt;C: Checks coordinates. On Android, swipe down with 3 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Spacebar: Jumps. On Android, swipe down with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Arrow keys: Move around the map. Holding down one of them will move continuously to that direction. On Android, swipe to the direction you want to move. You may also hold down to move continuously after the swipe.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;general--miscellaneous&#34;&gt;General / Miscellaneous&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;R: Reloads the selected weapon. On Android, triple tap with 3 fingers.&lt;/li&gt;&#xA;&lt;li&gt;D: Brings up a menu to select a weapon to draw. On Android, triple tap with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;H: Checks health. On Android, swipe up with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;L: Checks resurrection, level, and experience. On Android, double tap with 3 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Z: Checks ammo, if available. On Android, swipe up with 3 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Either Control: Fires the selected weapon. On Android, double tap with 1 finger.&lt;/li&gt;&#xA;&lt;li&gt;Escape: Exit to main menu. On Android, click back button.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;inventory&#34;&gt;Inventory&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tab: Next item. On android, swipe right with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Shift+Tab: Previous item. On Android, swipe left with 2 fingers.&lt;/li&gt;&#xA;&lt;li&gt;Enter: Use the selected item. On Android, double tap with 2 fingers.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Late October 2024 Update</title>
+      <link>https://harrymkt.github.io/mgh/blog/late-october-2024-update/</link>
+      <pubDate>Tue, 29 Oct 2024 11:35:00 +0630</pubDate>
+      <guid>https://harrymkt.github.io/mgh/blog/late-october-2024-update/</guid>
+      <description>&lt;p&gt;Hello everyone! I would like to inform all players about this October 2024 update that contains a large improvements and a few new features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Endless Battle First Version is Ready!</title>
+      <link>https://harrymkt.github.io/mgh/blog/available/</link>
+      <pubDate>Sun, 13 Oct 2024 15:10:00 +0630</pubDate>
+      <guid>https://harrymkt.github.io/mgh/blog/available/</guid>
+      <description>&lt;p&gt;Hello everyone!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://harrymkt.github.io/mgh/blog/intro/</link>
+      <pubDate>Wed, 02 Oct 2024 20:34:00 +0630</pubDate>
+      <guid>https://harrymkt.github.io/mgh/blog/intro/</guid>
+      <description>&lt;p&gt;Hello everyone! Endless Battle game is being redeveloped after I lost my hard disk talked about in this &lt;a href=&#34;https://harrymkt.github.io/blog/new-chapter-begins/&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contributing</title>
+      <link>https://harrymkt.github.io/mgh/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/contribute/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;&#xA;&lt;p&gt;You can contribute documentation if you have GitHub knowledge.&#xA;To contribute, site and/or documentation improvements, visit &lt;a href=&#34;https://github.com/harrymkt/mgh&#34;&gt;this repository&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;developer&#34;&gt;Developer&lt;/h2&gt;&#xA;&lt;p&gt;This game is not an open source and therefore developer acceptance is fewer chance. For sound contribution, you can send on Telegram directly.&lt;/p&gt;&#xA;&lt;p&gt;To become a developer in this game, here are requirements:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You must have knowledge with GitHub, as this is the platform we use to develop together.&lt;/li&gt;&#xA;&lt;li&gt;You must agree that under no circumstances are you allowed to share any information from that private repository, including announcements, unreleased versions and/or private releases unless otherwise permitted.&lt;/li&gt;&#xA;&lt;li&gt;You must never share game related security informations including debug keys and logs, with or without permission from the developer.&lt;/li&gt;&#xA;&lt;li&gt;You must have knowledge with the NVGT game engine.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://harrymkt.github.io/contact&#34;&gt;Contact&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contributors and Credits</title>
+      <link>https://harrymkt.github.io/mgh/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/contributors/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;This is the list of contributors who helped the game better. Looking for ways to contribute? Remember, even feedbacks and suggestions count in contribution. Check &lt;a href=&#34;https://harrymkt.github.io/mgh/mgh/contribute/&#34;&gt;how to contribute&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://samtupy.com/&#34;&gt;Sam Tupy&lt;/a&gt;: Provider of NVGT, the game engine this game is used.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;: Website host, for public contributions and to maintain releases, as well as private repository for source code keeping for the purposes of backup and collaborative contributions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;: A static site generator written in Go, which helped generating this website way easy than having manually writing down much HTML/JS, with the ability to use themes of my own.&lt;/li&gt;&#xA;&lt;li&gt;Dao Duc Trung (the owner of &lt;a href=&#34;https://ddt.one&#34;&gt;ddt.one&lt;/a&gt;): Thanks for giving me the idea to create a game zone, that is, many mini games bundled into 1 game. While the game is initially planned for battle game, this idea brings me into creating something that wouldn&#39;t be boring for everyone. By the way, if you want to get useful resources and informations, you should probably visit his website.&lt;/li&gt;&#xA;&lt;li&gt;Lastly but not miss, thanks everybody who play this game and their suggestions. Without user suggestions and above contributors this game wouldn&#39;t have gotten this far.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mini Games Hub Changes</title>
+      <link>https://harrymkt.github.io/mgh/changelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/changelog/</guid>
+      <description>&lt;h1 id=&#34;mini-games-hub-changes&#34;&gt;Mini Games Hub Changes&lt;/h1&gt;&#xA;&lt;h2 id=&#34;new-in-version-005-build-20241208&#34;&gt;New in version 0.0.5 (build 2024.12.08)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed the download URL for update.&#xA;Upgrades website to Hugo. The website now supports search functionality!&lt;/li&gt;&#xA;&lt;li&gt;Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Items in the map will now play a loop sound which will indicate where they are.&lt;/li&gt;&#xA;&lt;li&gt;Added a new weapon (Knife)! This is small and lightweight, doing only a small amount of damage though it is faster than the Sword. You should get this weapon when your resurrection is 1 or above. Now, the Sword range is increased while the Knife has a shorter range.&lt;/li&gt;&#xA;&lt;li&gt;Added a new enemy (Bear!) Be careful, it does a little higher amount of damage than Wolf.&lt;/li&gt;&#xA;&lt;li&gt;Require experience point will now randomize.&lt;/li&gt;&#xA;&lt;li&gt;You can now customize the spawn time of enemy and it is set to 10 seconds by default.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Added buffer! This means that you can review informations that you&#39;ve missed. For example, alerts and in-game important notifications. You can press left and right brackets to switch between buffers (holding down Shift will move to top or bottom), and you can press the Comma key or Period key to move through the current buffer (holding down Shift will move to top or bottom). Android gestures not supported.&lt;/li&gt;&#xA;&lt;li&gt;Introducing a new mini-game: Dice Match! The objective is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you&#39;ll earn money equal to 0 to 20 times their total. There you go, Android gamers, because this mini game fully supports gestures and thus keyboard is not required!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;new-in-version-004-build-20241117&#34;&gt;New in version 0.0.4 (build 2024.11.17)&lt;/h2&gt;&#xA;&lt;p&gt;Please note that the Android version still cannot save data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To Do List</title>
+      <link>https://harrymkt.github.io/mgh/to-do-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/to-do-list/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;This list contains code improvements or libraries that are still need to be defined, added, used, modified, replaced or otherwise changed in order to get the best possible working and are beneficial to display in public interestry.&lt;/p&gt;&#xA;&lt;h2 id=&#34;translation&#34;&gt;Translation system&lt;/h2&gt;&#xA;&lt;p&gt;Currently, we have a private translation system but it is not used yet, which features including dynamic variables and using IDs, fallback dictionary if the translated ID is not found for the current selected language, and so on. Unfortunately, this system is at least for now, but not the advance level. This system is not ideal for the following reasons:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

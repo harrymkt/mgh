@@ -1,30 +1,34 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-
-<meta charset="UTF-8">
+	<meta name="generator" content="Hugo 0.139.3">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="https://harrymkt.github.io/mgh/css/theme.css">
 <script src="https://harrymkt.github.io/mgh/scripts/theme.js"></script>
+<link href="https://harrymkt.github.io/mgh/css/theme.css">
 <script src="https://harrymkt.github.io/mgh/scripts/functions.js"></script>
 <script src="https://harrymkt.github.io/mgh/scripts/footer.js"></script>
 <title>Home – Mini Games Hub</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.0.2/lunr.js"></script>
 </head>
 <body>
-<a href="#mainc" class="skip-link">Skip to main content</a><a href="#navigation" class="skip-link">Skip to navigation</a>
-<a href="#zlfooter" class="skip-link">Skip to footer</a>
-<nav id="navigation" role="navigation" aria-label="Main menu">
-<h2>Main menu</h2>
+<p><a href="https://harrymkt.github.io/mgh/search">Search</a></p><p><a href="#mainc" class="skip-link">Skip to main content</a></p>
+<p><a href="#navigation" class="skip-link">Skip to navigation</a></p>
+<p><a href="#hgfooter" class="skip-link">Skip to footer</a></p>
+<nav id="navigation" role="navigation" aria-label="Main Menu">
+<h2>Main Menu</h2>
 <ul style="list-style-type:none;">
-<li><a aria-current="page" href="https://harrymkt.github.io/mgh" accesskey="H">Home</a></li>
-<li><a href="https://harrymkt.github.io/mgh/docs">Documentation</a></li>
-<li><a href="https://harrymkt.github.io/mgh/blog" title="Read the latest news">Blog</a></li>
-<li><a href="https://harrymkt.github.io/mgh/contributors">Contributors and Credits</a></li>
-<li><a href="https://harrymkt.github.io/mgh/to-do-list">To-Do List</a></li>
+<li><a aria-current="page" class="active" href="/mgh/">Home</a>
+</li>
+<li><a href="/mgh/docs/">Documentation</a>
+</li>
+<li><a href="/mgh/blog/">Blog</a>
+</li>
+<li><a href="/mgh/contributors/">Contributors and Credits</a>
+</li>
 </ul>
 </nav>
-<main>
-<div id="mainc">
+<main id="mainc">
 <h1 id="title">Home</h1>
 <p>Welcome to Mini Games Hub, an offline set of many mini games bundled into 1 game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!</p>
@@ -36,10 +40,10 @@ This game will provide you with different mini games and endless hours of gamepl
 <li>3D; HRTF, or Head Related Transform Function, allows you to play the game in a real 3D environment. Clearly hear the sounds from in front and behind, and endlessly fight around the map. As such, headphone or 3D speakers is recommended. This is only for some mini games like Endless Battle.</li>
 <li>No visual; accessibility is only what we have. Unfortunately, vision is not one of them.</li>
 <li>Play directly with your screen reader. Are you advance one? Play the game with your screen reader speech off!</li>
-<li>Documentation; read the comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.</li>
-<li>Documentation Open Source; contribute to documentations if they are out of date or have not been written.</li>
+<li>Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.</li>
+<li>Documentation open Source; contribute to documentations if they are out of date or have not been written.</li>
 <li>Portability; the game is portable. Extract the zip and start playing!</li>
-<li>Cross Platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.</li>
+<li>Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.</li>
 </ul>
 <h2 id="requirements">Requirements and Recommendations</h2>
 <ul>
@@ -79,6 +83,16 @@ if (dcw) {
 	});
 }
 </script></li>
+<li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh.apk">Android</a><span id="dca"></span><script>
+const dca = document.getElementById("dca");
+if (dca) {
+	get_gh_asset_info("harrymkt", "mgh", "mgh.apk").then(t => {
+		dca.textContent = `Download count: ${t.download_count}`;
+		totaldownload += t.download_count;
+		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+	});
+}
+</script></li>
 <li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh-linux.zip">Linux</a><span id="dcl"></span><script>
 const dcl = document.getElementById("dcl");
 if (dcl) {
@@ -99,23 +113,12 @@ if (dcmos) {
 	});
 }
 </script></li>
-<li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh.apk">Android</a><span id="dca"></span><script>
-const dca = document.getElementById("dca");
-if (dca) {
-	get_gh_asset_info("harrymkt", "mgh", "mgh.apk").then(t => {
-		dca.textContent = `Download count: ${t.download_count}`;
-		totaldownload += t.download_count;
-		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
-	});
-}
-</script></li>
 </ul>
 <h2 id="donation">Donation</h2>
 <p>This game is completely free. When we speak free, it's a complete free. No fees. However, if you love this game and want to buy me a coffee, you can do via <a href="https://paypal.me/harrymk64">PayPal</a>, again thanks if you do so, I'd be appreciated!</p>
 
-</div>
 </main>
-<div id="zlfooter">
+<div id="hgfooter">
 <aside>
 <h2>Useful Links</h2>
 <a href="https://harrymkt.github.io/mgh/changelog">Change Log</a>
@@ -123,6 +126,8 @@ if (dca) {
 </aside>
 <script>addfooter();</script>
 </div>
+
 <script src="https://harrymkt.github.io/mgh/scripts/copy.js"></script>
+<script src="https://harrymkt.github.io/mgh/scripts/search.js"></script>
 </body>
 </html>

@@ -7,7 +7,7 @@
 <link href="https://harrymkt.github.io/mgh/css/theme.css">
 <script src="https://harrymkt.github.io/mgh/scripts/functions.js"></script>
 <script src="https://harrymkt.github.io/mgh/scripts/footer.js"></script>
-<title>Introduction – Blog – Mini Games Hub</title>
+<title>Search – Mini Games Hub</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.0.2/lunr.js"></script>
 </head>
 <body>
@@ -21,26 +21,21 @@
 </li>
 <li><a href="/mgh/docs/">Documentation</a>
 </li>
-<li><a aria-current="true" class="ancestor" href="/mgh/blog/">Blog</a>
+<li><a href="/mgh/blog/">Blog</a>
 </li>
 <li><a href="/mgh/contributors/">Contributors and Credits</a>
 </li>
 </ul>
 </nav>
 <main id="mainc">
-<h1>Introduction</h1>
-<p>Published on <script>document.write(local_datetime_string("2024-10-02 20:34:00 +0630 +0630"));</script></p>
-<p>94 words total</p>
-<p>1 minute read</p>
-<br>
-<p>Hello everyone! Endless Battle game is being redeveloped after I lost my hard disk talked about in this <a href="https://harrymkt.github.io/blog/new-chapter-begins/">blog post</a></p>
-<p>So, this is the date this game is redeveloped.</p>
-<p>Please wait while I prepare for public release after finishing up!</p>
-<h2 id="whats-to-come">What's to come?</h2>
-<ul>
-<li>A complete redesign with future possible improvements compared to the lost version which would be defined by user suggestions and experience feedbacks.</li>
-<li>Cross platform support will be included, with android also being available thanks to NVGT's cross platform system. I-OS support is still to be made available in the near future.</li>
-</ul>
+<div class="container content">
+<section class="post">
+<h1 class="post-title">Search</h1>
+<input type="text" id="search-input" placeholder="" oninput="showSearchResults()">
+<br />
+<div id="searchres"></div>
+</section>
+</div>
 </main>
 <div id="hgfooter">
 <aside>
