@@ -1,0 +1,33 @@
+name: New Game Request
+description: Suggest a new game for this project
+title: "newgame: "
+labels: ["newgame"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this request!
+  - type: input
+    id: gt
+    attributes:
+      label: Game Title
+      description: The title of the game.
+    validations:
+      required: true
+  - type: textarea
+    id: gd
+    attributes:
+      label: Description
+      description: A clear and concise description of this game.
+    validations:
+      required: true
+  - type: textarea
+    id: gf
+    attributes:
+      label: Features
+      description: A list of features
+      placeholder: |
+        - Feature1
+        - Feature2
+    validations:
+      required: true
