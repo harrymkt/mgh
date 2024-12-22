@@ -8,12 +8,13 @@
 <script src="https://harrymkt.github.io/mgh/scripts/functions.js"></script>
 <script src="https://harrymkt.github.io/mgh/scripts/footer.js"></script>
 <title>Shortcuts of Endless Battle – Documentation – Mini Games Hub</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.0.2/lunr.js"></script>
 </head>
-<body>
-<p><a href="https://harrymkt.github.io/mgh/search">Search</a></p><p><a href="#mainc" class="skip-link">Skip to main content</a></p>
+<body><p><a href="#mainc" class="skip-link">Skip to main content</a></p>
 <p><a href="#navigation" class="skip-link">Skip to navigation</a></p>
 <p><a href="#hgfooter" class="skip-link">Skip to footer</a></p>
+<link href="https://harrymkt.github.io/mgh/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="https://harrymkt.github.io/mgh/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
 <nav id="navigation" role="navigation" aria-label="Main Menu">
 <h2>Main Menu</h2>
 <ul style="list-style-type:none;">
@@ -24,6 +25,8 @@
 <li><a href="/mgh/blog/">Blog</a>
 </li>
 <li><a href="/mgh/contributors/">Contributors and Credits</a>
+</li>
+<li><a href="/mgh/to-do-list/">To Do List</a>
 </li>
 </ul>
 </nav>
@@ -42,17 +45,24 @@
 <h3>Dice Match (Mini Game)</h3>
 <ul style="list-style-type:none;">
 <li><a href="/mgh/docs/dice-match/about/" >About Dice Match</a></li>
-<li><a href="/mgh/docs/dice-match/shortcuts/" >Shortcodes of Dice Match</a></li>
+<li><a href="/mgh/docs/dice-match/shortcuts/" >Shortcuts of Dice Match</a></li>
 </ul>
 </nav>
-<main id="mainc">
+<main id="mainc" data-pagefind-body>
 <h1 id="title">Shortcuts of Endless Battle</h1>
+<p>There are large number of shortcuts that are used within the game, and thus they are divided into categories.</p>
 <h2 id="movement-and-navigation">Movement and Navigation</h2>
 <ul>
 <li>Q: Turn left 45 degrees. On Android, swipe left with 3 fingers.
-Combine with Shift key will turn by 90 degrees, Android touch not available.</li>
+<ul>
+<li>Combine with Shift key will turn by 90 degrees, Android touch not available.</li>
+</ul>
+</li>
 <li>E: Turn right 45 degrees. On Android, swipe right with 3 fingers.
-Combine with Shift key will turn by 90 degrees, Android touch not available.</li>
+<ul>
+<li>Combine with Shift key will turn by 90 degrees, Android touch not available.</li>
+</ul>
+</li>
 <li>S: Turn by a full 180 degrees, Android touch not available.</li>
 <li>F: Checks direction.</li>
 <li>C: Checks coordinates. On Android, swipe down with 3 fingers.</li>
@@ -87,6 +97,10 @@ Combine with Shift key will turn by 90 degrees, Android touch not available.</li
 </div>
 
 <script src="https://harrymkt.github.io/mgh/scripts/copy.js"></script>
-<script src="https://harrymkt.github.io/mgh/scripts/search.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+  new PagefindUI({ element: "#search", showSubResults: true });
+});
+</script>
 </body>
 </html>

@@ -15,11 +15,11 @@
       <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;The objective here, is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you&#39;ll earn money equal to 0 to 20 times their total. For example, if the numbers are 5 and 5, their total is 5 + 5 = 10. If the multiplier is, say, you got 15 by luck, you&#39;ll receive 150, which is 15 times the total.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Shortcodes of Dice Match</title>
+      <title>Shortcuts of Dice Match</title>
       <link>https://harrymkt.github.io/mgh/docs/dice-match/shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://harrymkt.github.io/mgh/docs/dice-match/shortcuts/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Escape: Quits the game. On Android, click back button.&lt;/li&gt;&#xA;&lt;li&gt;Spacebar: Rolls the dice. On Android, double tap with 1 finger.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Escape: Quits the game. On Android, click back button.&lt;/li&gt;&#xA;&lt;li&gt;Spacebar: Rolls the dice. On Android, double tap with 1 finger.&lt;/li&gt;&#xA;&lt;li&gt;T: Information about how much money you have.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
