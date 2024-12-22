@@ -1,14 +1,16 @@
-name: Deploy Hugo site to Pages
+name: Deploy
 on:
   push:
-    paths: ["Web/**"]
+    paths: ["archetypes/**", "data/**", "demo/**", "i18n/**", "layouts/**", "static/**", "hugo.yaml"]
     branches: [main]
   pull_request:
-    paths: ["Web/**"]
+    paths: ["archetypes/**", "data/**", "demo/**", "i18n/**", "layouts/**", "static/**", "hugo.yaml"]
   workflow_dispatch:
 
 env:
-  HUGO_VERSION: 0.139.3
+  HUGO_VERSION: 0.139.4
+  # Output directory where built files will deploy. This also will be used on Pagefind search generation.
+  outdir: Web/HTML
 
 # Default to bash
 defaults:
@@ -16,8 +18,7 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -25,17 +26,22 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Install Hugo CLI
+      - name: Install
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
-      - name: Build with Hugo
+      - name: Install Python Requirements
+        run: pip install -r requirements.txt
+      - name: Build
         run: |
           cd Web
           hugo \
-      - name: Deploy to GitHub Pages
+      # Ignore below name if you do not use pagefind.
+      - name: Generate Pagefind Search
+        run: python -m pagefind --site ${{ env.outdir }}
+      - name: Deploy Site
         if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: Web/HTML
+          publish_dir: ${{ env.outdir }}

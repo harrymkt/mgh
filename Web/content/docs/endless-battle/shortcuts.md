@@ -4,11 +4,13 @@ weight: 10
 layout: doc
 ---
 # %title%
+There are large number of shortcuts that are used within the game, and thus they are divided into categories.
+
 ## Movement and Navigation
 - Q: Turn left 45 degrees. On Android, swipe left with 3 fingers.
-	Combine with Shift key will turn by 90 degrees, Android touch not available.
+	- Combine with Shift key will turn by 90 degrees, Android touch not available.
 - E: Turn right 45 degrees. On Android, swipe right with 3 fingers.
-	Combine with Shift key will turn by 90 degrees, Android touch not available.
+	- Combine with Shift key will turn by 90 degrees, Android touch not available.
 - S: Turn by a full 180 degrees, Android touch not available.
 - F: Checks direction.
 - C: Checks coordinates. On Android, swipe down with 3 fingers.

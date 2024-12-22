@@ -12,6 +12,7 @@ Play the game and gain in-game currency which can be used across all mini games!
 Blackjack advertises the following features:
 - Gain in-game currency which can be used across all the games to buy and exchange items.
 - Numbers only; use 1 to 10 numbers and get a total of 21.
+- Wish your luck. Will you hit another card? Will you stand with what you have? Or better yet, will your best of luck pull you over to win double your bidding? Everything is determined by it!
 - Keyboard is not required; Android gestures fully supported.
 
 ## What is the Game Tab?
