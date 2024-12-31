@@ -12,6 +12,7 @@ First of all, **Happy new year!**
 	- Enemies can now spawn base on your map and the number of your resurrection. This means that bigger and bigger enemies will you likely to find as your resurrection goes higher. This acts just like a starting point for an expansive map system that will be available in the near future.
 	- Introducing a new enemy or animal (Lion)! Watch out! This animal is big, and take a lot of damage than previous enemies, with the approximate estimation that you will be killed is two hits. Don't worry newbies, you will only find them at resurrection 4 or above. Suggestion? Well, stay away from them, and shoot from a greater distance. They also have a slight higher range than Bears, which is another thing to care of.
 	- The game now speaks who kills you as soon as you die.
+	- Fixed bullet shoot range.
 
 ## New in version 0.0.5 (build 2024.12.08)
 - Fixed the download URL for update.
