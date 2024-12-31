@@ -1,5 +1,5 @@
 ---
-title: About Dice Match
+title: "About Dice Match"
 weight: 1
 layout: doc
 ---

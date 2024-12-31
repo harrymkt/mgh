@@ -13,4 +13,5 @@ Endless Battle advertises the following features:
 - Use different weapons to kill enemies. Use Grenades to shot down all, Machineguns to make quick sessions kill, and more. Get more weapons by killing enemies and reaching to its resurrection.
 - Use different items to take advantages over your enemies.
 - Use your hearing to find out where they are.
+- Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you.
 - A keyboard is recommended on Android.
