@@ -6,7 +6,7 @@ Mini Games Hub is an offline set of many mini games bundled into 1 game, for vis
 [Website](https://harrymkt.github.io/mgh)
 
 ## Updating theme
-As more features are available to Hugo theme, you need to update into your local computer. Please note that this is not required to do, unless you want to build the website from source yourself.
+As more features are available to the theme, you need to update into your local computer. Please note that this is not required to do, unless you want to build the website from source yourself.
 
 If you choose to do so, run the following command from the root of this repository:
 ```bash
