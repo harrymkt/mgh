@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://harrymkt.github.io/mgh/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menu Shortcuts</title>
+      <link>https://harrymkt.github.io/mgh/docs/menu-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harrymkt.github.io/mgh/docs/menu-shortcuts/</guid>
+      <description>&lt;h1 id=&#34;shortcuts-for-menu&#34;&gt;Shortcuts for Menu&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arrow keys: Moves around the menu.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Left and right swipes on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Home: Moves to the first item.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Up swipe on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;End: Moves to the last item.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Down swipe on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Spacebar: Toggles checkbox, list items etc.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Two fingers double tap on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Enter: Activates the menu item, list, etc.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One finger double tap on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Escape: Quits the menu.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Back button on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tab: Checks the title of the menu if available. Note, this key may be changed.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Two fingers triple tap on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;F1: Information of the selected item if available.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Three fingers double tap on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Control+F: Search.&lt;/li&gt;&#xA;&lt;li&gt;Control+G: Go to line.&lt;/li&gt;&#xA;&lt;li&gt;Control+C: Copies the focused menu item to the clipboard.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Three fingers triple tap on Android.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
