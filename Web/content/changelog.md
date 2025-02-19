@@ -2,6 +2,18 @@
 title: "Mini Games Hub Changes"
 ---
 # Mini Games Hub Changes
+## New in version 0.0.6 (build 2025.01.01)
+First of all, **Happy new year!**
+- Dice Match can now generate below 1 number, in which case you will lose dollar. This is completely randomized anyway. As such, you can now press faster.
+	- Dice Match now has buffer support. Note this is only for non Android users.
+- The game will now auto check for updates at startup. You can turn it off in the settings if you want to, but it is recommended to keep it on, as that option can be removed in the future if needed.
+- Added a checkbox in the settings to control whether item loop sounds are played. Thanks "Way Yan Soe" for his suggestion!
+- Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
+	- Enemies can now spawn base on your map and the number of your resurrection. This means that bigger and bigger enemies will you likely to find as your resurrection goes higher. This acts just like a starting point for an expansive map system that will be available in the near future.
+	- Introducing a new enemy or animal (Lion)! Watch out! This animal is big, and take a lot of damage than previous enemies, with the approximate estimation that you will be killed is two hits. Don't worry newbies, you will only find them at resurrection 4 or above. Suggestion? Well, stay away from them, and shoot from a greater distance. They also have a slight higher range than Bears, which is another thing to care of.
+	- The game now speaks who kills you as soon as you die.
+	- Fixed bullet shoot range.
+
 ## New in version 0.0.5 (build 2024.12.08)
 - Fixed the download URL for update.
 - Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
@@ -15,7 +27,7 @@ title: "Mini Games Hub Changes"
 
 ## New in version 0.0.4 (build 2024.11.17)
 Please note that the Android version still cannot save data.
-- This update Fixes a serious bug that the store item health drink is being incorrect. It's now changed to health potion, which is making wrong item. All health drinks that you have purchased will be transfered to health potion automatically. Thanks Jes Bel for report!
+- This update Fixes a serious bug that the store item health drink is being incorrect. It's now changed to health potion, which is making wrong item. All health drinks that you have purchased will be transfered to health potion automatically. Thanks "Jes Bel" for report!
 - Computer sequence in Blackjack will now more randomize and doesn't nearly always win or lose.
 - Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
 	- You can now select the map you want to play on. Of course, there is currently 1 map, but it will be expanded in the future.
