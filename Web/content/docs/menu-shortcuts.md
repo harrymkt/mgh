@@ -22,5 +22,5 @@ layout: doc
 	- Three fingers double tap on Android.
 - Control+F: Search.
 - Control+G: Go to line.
-- Control+C: Copies the focused menu item to the clipboard.
+- Control+C: Copies the focused menu item to the clipboard if available, either it is a direct reference or the actual menu item, depending on the menu item the program developer may have set.
 	- Three fingers triple tap on Android.

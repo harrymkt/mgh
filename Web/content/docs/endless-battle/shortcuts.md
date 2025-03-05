@@ -33,8 +33,10 @@ There are large number of shortcuts that are used within the game, and thus they
 	- On Android, double tap with 3 fingers.
 - Z: Checks ammo, if available.
 	- On Android, swipe up with 3 fingers.
+- M: Brings up a menu where you can cast spells if available.
+	- On Android, double tap with one finger on the top right of the screen.
 - Either Control: Fires the selected weapon.
-	- On Android, double tap with 1 finger.
+	- On Android, double tap with one finger.
 - Escape: Exit to main menu.
 	- On Android, click back button.
 
