@@ -2,6 +2,22 @@
 title: "Mini Games Hub Changes"
 ---
 # Mini Games Hub Changes
+## New in version 0.0.7 (build 2025.03.13)
+- Added translation system! This is still in its early development, and all strings might not be available to translate. Translations live in the lang folder, with a subfolder with the language code prefix. To translate the program, copy the main fallback translation folder (en) with your own language prefix. After translations you may send to me.
+- You can now copy menu items with Control+C, or triple tap with three fingers on Android.
+- Introducing a new mini game (Archery)! This is a game where you will shoot a flying plane that is moving from side to side. This game fully supports Android gestures. Read more about the game in the documentation section on the website.
+- Removed auto updating because it may cause some devices with slow internet so that they can't start the game. Updates are now require manual checks.
+- Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
+	- Removed coordinate checking. You don't need it.
+	- Fixed enemy detection to spawn.
+	- XP for Bear is slightly increased, and all enemies have increased their health.
+	- Introducing a new weapon (Axe)! This weapon is better than Sword as a melee weapon and is available for resurrection 2. This causes the Sword to shorten its range as the Axe takes place on it.
+	- Introducing magic attacks! Press the M key, or double tap with one finger on the top right of the screen on Android, to bring up the magic spells which can be casted if you have enough magic energy. The magic energy can be gained as the enemies are killed, and will not reach over 100. Note that availability of magic spells is based on your resurrection, and in some case, level is also included.
+	- Some weapons damage has been reduced.
+	- Fixed the S key to turn a full 180 degrees.
+	- You can now get coin as an item when you kill an enemy.
+	- Hitting your target with weapon is now harder as you now need to exactly face in the direction. Better listen, use headphones.
+
 ## New in version 0.0.6 (build 2025.01.01)
 First of all, **Happy new year!**
 - Dice Match can now generate below 1 number, in which case you will lose dollar. This is completely randomized anyway. As such, you can now press faster.
