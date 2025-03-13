@@ -1,0 +1,12 @@
+{{- $l := site.Data.langs | len }}
+{{- $singular := or (.Get 0) "%l% translated language" }}
+{{- $plural := or (.Get 1) "%l% translated languages" }}
+{{- $final := "" }}
+{{- $pv := printf "%v" (math.Abs $l) }}
+{{- if eq $pv "1" }}
+{{- $final = $singular }}
+{{- else }}
+{{- $final = $plural }}
+{{- end }}
+{{- $final = replace $final "%l%" $l }}
+{{- $final }}

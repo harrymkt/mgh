@@ -15,6 +15,7 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 ## Features{#features}
 - Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over.
 - 3D; HRTF, or Head Related Transform Function, allows you to play the game in a real 3D environment. As such, headphone or 3D speakers is recommended.
+- Multilingual; play the game in  multiple languages translated by players. At the moment, there {{< langlen "is %l% translated language" "are %l% translated languages" >}} available, with more to come.
 - No visual; accessibility is only what we have. Unfortunately, vision is not one of them.
 - Play directly with your screen reader. Are you advance one? Play the game with your screen reader speech off!
 - Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
