@@ -11,7 +11,7 @@
 <meta property="og:locale" content="en">
 <meta property="og:type" content="article">
 <meta itemprop="name" content="Mini Games Hub Changes">
-<meta itemprop="wordCount" content="1750">
+<meta itemprop="wordCount" content="1892">
 <link rel="canonical" href="https://harrymkt.github.io/mgh/changelog/">
 <link rel="icon" href="https://harrymkt.github.io/mgh/favicon.ico" type="image/x-icon">
 <script src="https://harrymkt.github.io/mgh/scripts/functions.js"></script>
@@ -30,20 +30,17 @@
 <ul style="list-style-type:none;">
 <li><a href="/mgh/">Home</a>
 </li>
-<li><a href="/mgh/docs/">Documentation</a>
-</li>
-<li><a href="/mgh/blog/">Blog</a>
-</li>
-<li><a href="/mgh/contributors/">Contributors and Credits</a>
-</li>
-<li><a href="/mgh/to-do-list/">To Do List</a>
-</li>
-<li><a href="/mgh/privacy/">Privacy Policy</a>
-</li>
 </ul>
 </nav>
 <main id="mainc" data-pagefind-body>
 <h1 id="mini-games-hub-changes">Mini Games Hub Changes</h1>
+<h2 id="new-in-version-008-build-20250315">New in version 0.0.8 (build 2025.03.15)</h2>
+<ul>
+<li>The game will no longer run if the fallback language (en) cannot be found in the folder.</li>
+<li>Translation languages now require config.toml file be present in the root folder of the language. Copy the config.toml from English language (en) and replace with your own configuration values. See the translations documentation first for more information if you are unsure about it.</li>
+<li>You can no longer set the same language when choosing in the language selection menu.</li>
+<li>Added a menu to download the languages you want! Do to this, only English is added in official game release to prevent increasing size, and go download other languages (if available) if you want to use them. Regardless of what languages you download, you must never delete the English folder or the game will not run as indicated by above change.</li>
+</ul>
 <h2 id="new-in-version-007-build-20250313">New in version 0.0.7 (build 2025.03.13)</h2>
 <ul>
 <li>Added translation system! This is still in its early development, and all strings might not be available to translate. Translations live in the lang folder, with a subfolder with the language code prefix. To translate the program, copy the main fallback translation folder (en) with your own language prefix. After translations you may send to me.</li>
@@ -155,12 +152,7 @@
 
 </main>
 <div id="hgfooter">
-<aside>
-<h2>Useful Links</h2>
-<a href="https://harrymkt.github.io/mgh/changelog">Change Log</a>
-<a target="_blank" href="https://t.me/harrymktg">Developer's official Telegram Channel</a>
-</aside>
-<script>addfooter();</script>
+
 </div>
 
 <script src="https://harrymkt.github.io/mgh/scripts/copy.js"></script>
