@@ -2,6 +2,12 @@
 title: "Mini Games Hub Changes"
 ---
 # Mini Games Hub Changes
+## New in version 0.0.8 (build 2025.03.15)
+- The game will no longer run if the fallback language (en) cannot be found in the folder.
+- Translation languages now require config.toml file be present in the root folder of the language. Copy the config.toml from English language (en) and replace with your own configuration values. See the translations documentation first for more information if you are unsure about it.
+- You can no longer set the same language when choosing in the language selection menu.
+- Added a menu to download the languages you want! Do to this, only English is added in official game release to prevent increasing size, and go download other languages (if available) if you want to use them. Regardless of what languages you download, you must never delete the English folder or the game will not run as indicated by above change.
+
 ## New in version 0.0.7 (build 2025.03.13)
 - Added translation system! This is still in its early development, and all strings might not be available to translate. Translations live in the lang folder, with a subfolder with the language code prefix. To translate the program, copy the main fallback translation folder (en) with your own language prefix. After translations you may send to me.
 - You can now copy menu items with Control+C, or triple tap with three fingers on Android.
