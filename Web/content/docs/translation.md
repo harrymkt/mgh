@@ -6,7 +6,9 @@ layout: doc
 # %title%
 To translate, copy the English files and folders (en). For the most update English version we recommend [downloading from this link](https://github.com/gamemgh/langs/releases/download/lang/en.zip).
 
-Note: config.toml is the file require to provide you and your language information.
+Note: Language codes must be always lowercase. You can use upper case for country codes. For example, en-US means en is language code, and US is the country code, so US can be uppercase.
+
+Note 2: config.toml is the file require to provide you and your language information.
 
 ## Updated keys
 English translations might have new keys or existing keys updated. To view the updated keys ordered by date, visit [updated translation keys page](https://github.com/gamemgh/langs/blob/main/keys.md)
